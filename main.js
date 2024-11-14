@@ -1,4 +1,4 @@
-import { data } from './Data.js';
+import { data } from "./data.js";
 
 const container = document.getElementById('elemento-pai');
 const header = document.getElementById('header');
