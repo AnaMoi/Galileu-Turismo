@@ -64,6 +64,6 @@ padding: 12px;
 
  .active{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(210, 109, 192);
+    background-color: rgba(198, 186, 53, 0.781);
     color: aliceblue; 
  }
